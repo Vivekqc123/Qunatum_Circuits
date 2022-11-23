@@ -1,2 +1,3 @@
-# Qunatum_Circuits
-Basic quantum circuit using Pauli X and Hadamard Gate 
+# QISKIT
+All Codes related to Quantum Computing Using Qiskit
+
